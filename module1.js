@@ -34,6 +34,4 @@ $(document).ready(function() {
     img.src = "img/cat.jpg";
 
 
-
-
 });
